@@ -1,0 +1,42 @@
+{
+  "Index": {
+    "title": "Simpli - Einfach versichert",
+    "ourPartners": "Unsere Partner",
+    "checkNow": "Jetzt Prüfen",
+    "insuranceType": "Versicherungsart",
+    "healthInsurance": "Krankenkasse",
+    "carInsurance": "Autoversicherung",
+    "amountYear": "Ungefährer Betrag (jährlich)",
+    "birthYear": "Jahrgang",
+    "oldPrice": "Alter Preis",
+    "savings": "Bis zu 30% günstiger möglich",
+    "contact": "Kontakt",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "submit": "Prüfung anfordern",
+    "successMessage": "Wir melden uns für eine persönliche & unverbindliche Prüfung.",
+    "policyNumber": "Policen Nummer (Optional)",
+    "currentInsurance": "Aktuelle Versicherung (Optional)",
+    "fasterProcessing": "Für eine schnellere Abwicklung kannst du uns auch noch eine aktuelle Policen Nummer und Versicherungsgesellschaft angeben.",
+    "finalSuccessTitle": "Vielen Dank für dein Vertrauen!",
+    "finalSuccessMessage": "Wir melden uns bei dir.",
+    "finalSubmit": "Abschließen",
+    "almostDone": "Du hast es bald geschafft!",
+    "potentialSavingsLabel": "Dein Sparpotenzial",
+    "currentContribution": "Aktueller Beitrag",
+    "possibleNewContribution": "Möglicher neuer Beitrag",
+    "calculatingSavings": "Berechne mögliche Einsparungen anhand Daten von vorherigen Kunden...",
+    "testimonial": "Vielen Dank! Dank Simpli spare ich nun fast 500 CHF pro Jahr.",
+    "testimonialAuthor": "Sarah M. aus Zürich",
+    "errors": {
+      "amount": "Bitte gib einen gültigen Betrag ein",
+      "birthYear": "Bitte gib einen gültigen Jahrgang ein",
+      "firstName": "Vorname ist erforderlich",
+      "lastName": "Nachname ist erforderlich",
+      "email": "Bitte gib eine gültige E-Mail ein",
+      "phone": "Bitte gib eine gültige Telefonnummer ein"
+    }
+  }
+}

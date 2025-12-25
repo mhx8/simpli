@@ -1,0 +1,42 @@
+{
+  "Index": {
+    "title": "Simpli - Assuré simplement",
+    "ourPartners": "Nos Partenaires",
+    "checkNow": "Vérifier maintenant",
+    "insuranceType": "Type d'assurance",
+    "healthInsurance": "Assurance maladie",
+    "carInsurance": "Assurance voiture",
+    "amountYear": "Montant approximatif (annuel)",
+    "birthYear": "Année de naissance",
+    "oldPrice": "Ancien prix",
+    "savings": "Jusqu'à 30% moins cher possible",
+    "contact": "Contact",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "email": "E-Mail",
+    "phone": "Téléphone",
+    "submit": "Demander une vérification",
+    "successMessage": "Nous vous contacterons pour une vérification personnelle et sans engagement.",
+    "policyNumber": "Numéro de police (Optionnel)",
+    "currentInsurance": "Assurance actuelle (Optionnel)",
+    "fasterProcessing": "Pour un traitement plus rapide, vous pouvez également nous fournir un numéro de police actuel et une compagnie d'assurance.",
+    "finalSuccessTitle": "Merci de votre confiance !",
+    "finalSuccessMessage": "Nous vous contacterons.",
+    "finalSubmit": "Terminer",
+    "almostDone": "Vous y êtes presque !",
+    "walletThanks": "Votre portefeuille vous remerciera.",
+    "currentContribution": "Contribution actuelle",
+    "possibleNewContribution": "Nouvelle contribution possible",
+    "calculatingSavings": "Calcul des économies possibles basé sur les données des clients précédents...",
+    "testimonial": "Merci beaucoup ! Grâce à Simpli, j'économise maintenant près de 500 CHF par an.",
+    "testimonialAuthor": "Sarah M. de Zurich",
+    "errors": {
+      "amount": "Veuillez entrer un montant valide",
+      "birthYear": "Veuillez entrer une année de naissance valide",
+      "firstName": "Le prénom est requis",
+      "lastName": "Le nom est requis",
+      "email": "Veuillez entrer une adresse e-mail valide",
+      "phone": "Veuillez entrer un numéro de téléphone valide"
+    }
+  }
+}

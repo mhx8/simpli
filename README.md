@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Simpli - Insurance Landing Page
+
+This is a Next.js project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Features
+
+- **Mobile First:** Optimized for mobile devices.
+- **Fast Loading:** Static generation and optimized assets.
+- **Internationalization (i18n):** Supports German (de), English (en), French (fr), and Italian (it).
+- **Azure Table Storage:** Leads are saved to Azure Table Storage.
+- **Tailwind CSS:** Styled with Tailwind CSS.
 
 ## Getting Started
 
@@ -16,21 +26,31 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Configuration
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Azure Table Storage
 
-## Learn More
+Create a `.env.local` file in the root directory and add your Azure Storage connection string:
 
-To learn more about Next.js, take a look at the following resources:
+```env
+AZURE_STORAGE_CONNECTION_STRING="your_connection_string"
+AZURE_TABLE_NAME="SimpliLeads"
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+For local development, you can use the Azure Storage Emulator (Azurite) with the connection string `UseDevelopmentStorage=true`.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Internationalization
 
-## Deploy on Vercel
+Translations are stored in the `messages` directory.
+- `de.json` (German - Default)
+- `en.json` (English)
+- `fr.json` (French)
+- `it.json` (Italian)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Project Structure
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- `src/app/[locale]`: Localized pages.
+- `src/components`: React components (e.g., `MultiStepForm`).
+- `src/lib`: Utility functions (e.g., Azure Table client).
+- `src/i18n`: Internationalization configuration.
+- `messages`: Translation files.

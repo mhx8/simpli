@@ -1,0 +1,42 @@
+{
+  "Index": {
+    "title": "Simpli - Assicurato semplicemente",
+    "ourPartners": "I Nostri Partner",
+    "checkNow": "Controlla ora",
+    "insuranceType": "Tipo di assicurazione",
+    "healthInsurance": "Assicurazione sanitaria",
+    "carInsurance": "Assicurazione auto",
+    "amountYear": "Importo approssimativo (annuale)",
+    "birthYear": "Anno di nascita",
+    "oldPrice": "Vecchio prezzo",
+    "savings": "Fino al 30% in meno possibile",
+    "contact": "Contatto",
+    "firstName": "Nome",
+    "lastName": "Cognome",
+    "email": "E-Mail",
+    "phone": "Telefono",
+    "submit": "Richiedi verifica",
+    "successMessage": "Vi contatteremo per una verifica personale e non vincolante.",
+    "policyNumber": "Numero di polizza (Opzionale)",
+    "currentInsurance": "Assicurazione attuale (Opzionale)",
+    "fasterProcessing": "Per un'elaborazione più rapida, puoi anche fornirci un numero di polizza attuale e una compagnia di assicurazione.",
+    "finalSuccessTitle": "Grazie per la tua fiducia!",
+    "finalSuccessMessage": "Ti contatteremo.",
+    "finalSubmit": "Completare",
+    "almostDone": "Ci sei quasi!",
+    "walletThanks": "Il tuo portafoglio ti ringrazierà.",
+    "currentContribution": "Contributo attuale",
+    "possibleNewContribution": "Possibile nuovo contributo",
+    "calculatingSavings": "Calcolo dei possibili risparmi basato sui dati dei clienti precedenti...",
+    "testimonial": "Grazie mille! Grazie a Simpli, ora risparmio quasi 500 CHF all'anno.",
+    "testimonialAuthor": "Sarah M. da Zurigo",
+    "errors": {
+      "amount": "Inserisci un importo valido",
+      "birthYear": "Inserisci un anno di nascita valido",
+      "firstName": "Il nome è obbligatorio",
+      "lastName": "Il cognome è obbligatorio",
+      "email": "Inserisci un'email valida",
+      "phone": "Inserisci un numero di telefono valido"
+    }
+  }
+}

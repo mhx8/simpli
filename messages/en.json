@@ -1,0 +1,42 @@
+{
+  "Index": {
+    "title": "Simpli - Simply Insured",
+    "ourPartners": "Our Partners",
+    "checkNow": "Check Now",
+    "insuranceType": "Insurance Type",
+    "healthInsurance": "Health Insurance",
+    "carInsurance": "Car Insurance",
+    "amountYear": "Approximate Amount (Yearly)",
+    "birthYear": "Birth Year",
+    "oldPrice": "Old Price",
+    "savings": "Up to 30% cheaper possible",
+    "contact": "Contact",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Phone",
+    "submit": "Request Check",
+    "successMessage": "We will contact you for a personal & non-binding check.",
+    "policyNumber": "Policy Number (Optional)",
+    "currentInsurance": "Current Insurance (Optional)",
+    "fasterProcessing": "For faster processing, you can also provide us with a current policy number and insurance company.",
+    "finalSuccessTitle": "Thank you for your trust!",
+    "finalSuccessMessage": "We will contact you.",
+    "finalSubmit": "Complete",
+    "almostDone": "You are almost there!",
+    "walletThanks": "Your wallet will thank you.",
+    "currentContribution": "Current Contribution",
+    "possibleNewContribution": "Possible New Contribution",
+    "calculatingSavings": "Calculating possible savings based on data from previous customers...",
+    "testimonial": "Thank you! Thanks to Simpli, I now save almost 500 CHF per year.",
+    "testimonialAuthor": "Sarah M. from Zurich",
+    "errors": {
+      "amount": "Please enter a valid amount",
+      "birthYear": "Please enter a valid birth year",
+      "firstName": "First name is required",
+      "lastName": "Last name is required",
+      "email": "Please enter a valid email",
+      "phone": "Please enter a valid phone number"
+    }
+  }
+}
