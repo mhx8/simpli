@@ -200,7 +200,7 @@ export default function MultiStepForm() {
   };
 
   return (
-    <div className="w-full max-w-md mx-auto h-screen overflow-hidden bg-white shadow-xl relative flex flex-col">
+    <div className="w-full max-w-md mx-auto h-[100dvh] overflow-hidden bg-white shadow-xl relative flex flex-col">
       <div className="w-full h-1 bg-gray-200 shrink-0">
         <div
           className="h-full bg-slate-900 transition-all duration-500"
